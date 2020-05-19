@@ -1,0 +1,14 @@
+html,body{
+    height: 100%;
+    position: relative;
+}
+
+body,h1,h2,h3,h4,h5,h6,a,p,ul,li{
+    margin: 0;
+    font-size: 15px;
+    font-style: none;
+    list-style: none;
+    color: black;
+    text-decoration: none;
+    padding: 0;
+}

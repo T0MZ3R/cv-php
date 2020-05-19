@@ -1,0 +1,19 @@
+.bloc-skills{
+    position: relative;
+    width: 45%;
+    margin: 10px auto 0 auto;
+}
+
+.pourcentage{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.bloc-skills #file{
+    width: 100%;
+}
+
+.saut-skills{
+    display: flex;
+}

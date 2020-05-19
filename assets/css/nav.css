@@ -1,0 +1,61 @@
+.roundedImage{
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border: 8px solid gray;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+
+.sidenav{
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(19, 62, 85);
+    /*overflow-x: hidden;*/
+    padding-top: 50px;
+    text-align: center;
+}
+
+.sidenav a,.sidenav p,.sidenav h2{
+    color: white;
+}
+
+.sidenav h2{
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+.sidenav ul{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+.sidenav a{
+    text-align: left;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+  
+.sidenav a:hover{
+    color: #f1f1f1;
+}
+
+.active{
+    color: white !important; 
+}
+
+.sidenav .footer-menu{
+    position: absolute;
+    bottom: 6%;
+    width: 100%;
+}
+
+.sidenav .footer-menu p{
+    text-align: center;
+}

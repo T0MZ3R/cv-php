@@ -1,0 +1,37 @@
+.truc-dedans img{
+    width: 325px;
+}
+
+.about-section .truc-dedans{
+    display: flex;
+}
+
+.droite-truc-dedans{
+    position: relative;
+    margin-left: 35px;
+    width: 67%;
+}
+
+.droite-truc-dedans h3{
+    margin: 5px 0 13px 0;
+}
+
+.info-user{
+    margin-top: 25px;
+    display: flex;
+}
+
+.colonne{
+    position: absolute;
+    left: 1%;
+}
+
+.colonne:nth-of-type(2){
+    left: 55%;
+}
+
+.droite-truc-dedans .sous-info-user{
+    position: absolute;
+    top: 45%;
+    text-align: justify;
+}

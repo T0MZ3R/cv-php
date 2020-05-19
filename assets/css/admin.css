@@ -1,0 +1,93 @@
+.pres{
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+.pres-console li{
+    position: relative;
+    display: flex;
+    width: 600px;
+}
+
+.pres-console li form input[type="text"]{
+    width: 300px;
+}
+
+.pres-console li form input[type="submit"]{
+    position: relative;
+    height: 100%;
+    width: 136px;
+}
+
+.decalle-droite{
+    margin-left: 5px;
+}
+
+.add-line-hero{
+    margin-left: 35px;
+    width: 603px;
+}
+
+.supp-line{
+    position: relative;
+    height: 34px;
+    width: 136px;
+}
+
+.section-admin-about form textarea{
+    width: 600px;
+    height: 175px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    resize: none;
+    text-align: initial;
+}
+
+.section-admin-about form{
+    display: inline-grid;
+}
+
+.section-admin-about .presentation{
+    position: relative;
+    display: normal;
+    width: 600px;
+}
+
+.section-admin-about .presentation .row{
+    position: relative;
+    height: 34px;
+}
+
+.section-admin-about .presentation .row label{
+    position: absolute;
+    top: 8px;
+}
+
+.section-admin-about .presentation .row input[type="text"]{
+    position: absolute;
+    right: 0;
+}
+
+.section-admin-about .titre-cv{
+    margin-bottom: 20px;
+}
+
+.add-line-skills{
+    margin-left: 35px;
+    width: 603px;
+}
+
+
+
+
+.section-admin-skills .pres-console li form input[type="text"]{
+    width: 150px;
+}
+
+.section-admin-skills .pres-console li form input[type="submit"]{
+    width: 127px;
+}
+
+.section-admin-skills .supp-line{
+    width: 127px;
+}
